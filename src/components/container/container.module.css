@@ -1,0 +1,21 @@
+.container {
+  display: grid;
+  /* width: 50vh; */
+  /* grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(6,1fr); */
+  background-color: #2196F3;
+ 
+  grid-gap: 20px;
+  box-sizing: border-box;
+  padding: 50px;
+  border-radius: 20px;
+}
+
+.cont{
+  margin: auto;
+  width: 800px;
+  background-color: #2196F3;
+  border-radius: 20px;
+  padding: 50px;
+  box-sizing: border-box;
+}

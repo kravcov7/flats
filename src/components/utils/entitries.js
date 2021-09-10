@@ -1,4 +1,4 @@
-{
+export  const data = `{
   "response": [
     {
       "type": "flat",
@@ -76,4 +76,4 @@
       }
     }
   ]
-}
+}`

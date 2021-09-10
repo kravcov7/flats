@@ -8,9 +8,11 @@ function Container() {
   // const [cards, setCards] = useState(() => moveCards(arrayCards.concat(arrayCards)));
 
   return (
-    <div className={s.cont}>
+    <ul className={s.container}>
       <Card />
-    </div>
+      <Card />
+      <Card />
+    </ul>
   );
 }
 
